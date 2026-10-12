@@ -1,0 +1,25 @@
+[
+  {
+    "file": "src/main.c",
+    "arguments": [
+      "/usr/bin/clang",
+      "-std=c17",
+      "-march=native",
+      "-ffast-math",
+      "-O3",
+      "-MMD",
+      "-MP",
+      "-Iinclude",
+      "-Weverything",
+      "-Werror",
+      "-Wno-unsafe-buffer-usage",
+      "-Wno-used-but-marked-unused",
+      "-c",
+      "src/main.c",
+      "-o",
+      "build/main.o"
+    ],
+    "directory": "/home/patrik/code/kirbyNoCopyToru_TTSim/downloader",
+    "output": "build/main.o"
+  }
+]
