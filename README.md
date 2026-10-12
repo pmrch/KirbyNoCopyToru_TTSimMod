@@ -1,0 +1,1 @@
+# KirbyNoCopyToru_TTSimMod
