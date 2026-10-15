@@ -1,0 +1,3 @@
+[submodule "scraper"]
+	path = scraper
+	url = git@github.com:20HDMI04/puppets-for-the-sake-of-kirby.git
