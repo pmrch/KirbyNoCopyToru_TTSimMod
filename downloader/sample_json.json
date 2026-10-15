@@ -1,0 +1,25 @@
+{
+    "cards": [
+        {
+            "name": {
+                "japanese": "スパークはどうだん",
+                "english": "Spark Wave"
+            },
+            "image": {
+                "file": "Kirby_no_Copy-toru_Spark_Wave_artwork.jpg",
+                "url": "https://cdn.wikirby.com/thumb/8/8a/Kirby_no_Copy-toru_Spark_Wave_artwork.jpg/100px-Kirby_no_Copy-toru_Spark_Wave_artwork.jpg",
+                "width": 100,
+                "height": 101
+            },
+            "power": 8,
+            "color": "Green",
+            "additional_info": null,
+            "location": {
+                "name": "Shiver Star - Stage 4",
+                "url": "/wiki/Shiver_Star_-_Stage_4",
+                "game": "Kirby 64: The Crystal Shards"
+            },
+            "quantity": "One"
+        }
+    ]
+}

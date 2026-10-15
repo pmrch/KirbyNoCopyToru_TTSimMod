@@ -1,0 +1,9 @@
+max_width = 135
+imports_granularity = "Module"
+merge_imports = true
+reorder_imports = true
+fn_single_line = true
+chain_width = 120
+group_imports = "StdExternalCrate"
+enum_discrim_align_threshold = 30
+struct_field_align_threshold = 30

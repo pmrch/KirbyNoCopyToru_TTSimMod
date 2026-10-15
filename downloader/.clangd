@@ -1,3 +1,0 @@
-CompileFlags:
-    Add: [-Weverything, -Wno-unsafe-buffer-usage]
-    Remove: [-Werror, -Wunsafe-buffer-usage]
